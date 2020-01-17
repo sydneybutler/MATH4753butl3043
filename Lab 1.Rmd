@@ -1,0 +1,13 @@
+---
+title: "Lab 1"
+author: "Sydney Butler"
+date: "1/13/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Lab 1
+
+## Task 1
